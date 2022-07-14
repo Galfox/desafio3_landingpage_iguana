@@ -1,0 +1,114 @@
+body{
+  margin: 0px;
+  font-family: 'Raleway', sans-serif;
+  background-color: black;
+}
+
+header{ 
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  overflow: hidden;
+  font-weight: 500;
+}
+
+h1{
+  margin: 11.5px;
+}
+
+#slider{
+background-image: url(../imgs/bg-header.jpg);
+height: 727px;
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center center;
+}
+
+.text_more_image{
+  background-color: black;
+  display: flow-root;
+  height: 348px;
+  overflow: hidden;
+  text-align: center;
+}
+
+#text{
+  color: white;
+  width: 36%;
+  height: 197px;
+  text-align: left;
+  float: left;
+  margin: 76px 0 75px 11.5%;
+  font-weight: 300;
+}
+
+#iguana_trunk{
+  width: 31%;
+  height: 237px;
+  float: left;
+  margin: 45px 11.5% 66px 8%;
+}
+
+#iguana_trunk img{
+  height: 237px;
+}
+
+#caracteristicas{
+  background-color: #1E1A13;
+  color: white;
+  overflow: hidden;
+  height: 348px;
+}
+
+#caracteristicas article{
+  text-align: center;
+  margin-top: 75px;
+  margin-bottom: 74px;
+}
+
+#caracteristicas h2{
+  font-size: 40px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}
+
+.caracteristica{
+  float: left;
+  width: 33%;
+}
+
+.caracteristica p{
+  font-size: 24px;
+  font-weight: 300;
+  margin-top: 16px;
+  font-weight: 300;
+}
+
+#gallery{
+  background-color: black;
+  overflow: hidden;
+  height: 348px;
+  }
+
+#gallery article{
+  margin: 73px 11.5%;
+}
+
+#gallery img{
+  height: 202px;
+  width: 33%;
+}
+
+.footer{
+  background-color: #1E1A13;
+  overflow: hidden;
+}
+
+.footer p{
+  font-size: 18px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+  margin: 39px 299px;
+}
